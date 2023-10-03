@@ -27,12 +27,12 @@ require "valida_usuarios.php";
 
             <ul class="menu__links">
                 <li class="menu__item">
-                    <a href="index.php" class="menu__link">Usuarios</a>
+                    <a href="usuarios.php" class="menu__link">Usuarios</a>
                 </li>
 
             <ul class="menu__links">
                 <li class="menu__item">
-                    <a href="productos.html" class="menu__link">Productos</a>
+                    <a href="productos.php" class="menu__link">Productos</a>
                 </li>
 <!-- ________________________________        Menu desplegable _______________________-->
                 <li class="menu__item  menu__item--show">  
@@ -80,6 +80,10 @@ require "valida_usuarios.php";
 
     </nav>
     <br><br><br>
+
+    <center>
+        <img src="img/carpeta.png" width="15%">
+    </center>
     <div>
 
         <style>
@@ -107,11 +111,11 @@ require "valida_usuarios.php";
 
         </div>
 
-        <script src="js/app.js"></script>
-
+        <!-- <script src="js/app.js"></script> -->
+<br><br><br><br><br><br><br><br><br><br>
         <footer style="">
             <div class="footer-bottom">
-                <p>Biblioteca TMZ &copy; 2023. Todos los derechos reservados.</p>
+                <p>Papeleria Ross &copy; 2023.</p>
             </div>
         </footer>
 
